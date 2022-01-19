@@ -1,4 +1,4 @@
-import APIDataRead from "../src/APIDataRead";
+import APIDataRead from "../APIDataRead";
 
 const a = new APIDataRead(1,2)
 

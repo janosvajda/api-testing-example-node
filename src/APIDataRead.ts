@@ -1,10 +1,7 @@
-export default class APIDataRead  {
-    constructor(a:number, b:number) {
-    
-    }
+export default class APIDataRead {
+  constructor(a: number, b: number) {}
 
-    test() {
-        return true;
-    }
+  test() {
+    return true;
+  }
 }
-
